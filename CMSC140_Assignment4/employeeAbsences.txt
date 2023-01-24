@@ -1,0 +1,12 @@
+EMPLOYEE ABSENCE REPORT
+employee id	days absent
+1738			20
+6666			4
+The 2 employees were absent a total of 24 days.
+The average number of days absent is 12 days.
+
+
+Thank you for testing my program!!
+Programer: Miles Levine
+CMSC140 Common Project 4
+Due Date: 11/14/2021
